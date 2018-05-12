@@ -1,4 +1,8 @@
 _repo: The-Ancient-Egyptian-Doctrine-of-the-Immortality-of-the-Soul_48875
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48875-h/images/cover.jpg
 creator:
   author:
     agent_name: Wiedemann, Alfred
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45012
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Wiedemann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48875#The-Ancient-Egyptian-Doctrine-of-the-Immortality-of-the-Soul
 gutenberg_issued: '2015-05-04'
 gutenberg_type: Text
 identifiers:
